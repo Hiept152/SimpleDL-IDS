@@ -1,2 +1,2 @@
 # SimpleDL-IDS
-Deep Learning-based Intrusion Detection System
+Okay, maybe not exactly the "Simplest" Deep Learning-based Intrusion Detection System, but its simple in the sense that...
